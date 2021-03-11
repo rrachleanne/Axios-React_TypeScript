@@ -1,0 +1,118 @@
+[{
+    "firmId": "f18108af-9e5d-4a3d-9b8b-11889ce641c6",
+    "FirmName": "Noosa Family Law",
+    "Status": {
+        "Id": 1,
+        "Description": "Enabled"
+    },
+    "FirmType": {
+        "Id": 1,
+        "Description": "Solicitor"
+    },
+    "DbServer": "apse2rdssql05t.cbp10h7asnwo.ap-southeast-2.rds.amazonaws.com",
+    "Phone": "07 5455 4222",
+    "Fax": "07 5455 4122",
+    "Email": "noosafamilylaw@westnet.com.au",
+    "IsTestFirm": false,
+    "Address": {
+        "LevelUnitShop": "Suite 11",
+        "State": "Qld",
+        "Suburb": null,
+        "StreetName": "28",
+        "StreetNumber": "Sunshine Beach Road",
+        "Postcode": "4567",
+        "StreetType": null
+    },
+    "LastConversionDate": null,
+    "Users": [
+        {
+            "UserId": "af3d1c88-e929-4272-95ed-25b76b1dd7d6",
+            "UserName": "noosafamilylaw1@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "e2855296-617d-4fae-a3ab-1ead49a35b0a",
+            "UserName": "leap2128364116@leap.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "8c065017-8dd4-4702-80e2-11c83bd6abe3",
+            "UserName": "noosafamilylaw@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "615ffd16-034d-48c7-a431-acabcc4779d9",
+            "UserName": "louiseward@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "6e80c492-e4da-416c-aa29-bf3ab83c9d71",
+            "UserName": "denis.noosafamilylaw@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        }
+    ]
+},
+{
+    "firmId": "f18108af-9e5d-4a3d-9b8b-11889ce641c0",
+    "FirmName": "ABC Family Law",
+    "Status": {
+        "Id": 1,
+        "Description": "Enabled"
+    },
+    "FirmType": {
+        "Id": 1,
+        "Description": "Solicitor"
+    },
+    "DbServer": "apse2rdssql05t.cbp10h7asnwo.ap-southeast-2.rds.amazonaws.com",
+    "Phone": "07 5455 4222",
+    "Fax": "07 5455 4122",
+    "Email": "noosafamilylaw@westnet.com.au",
+    "IsTestFirm": false,
+    "Address": {
+        "LevelUnitShop": "Suite 11",
+        "State": "Qld",
+        "Suburb": null,
+        "StreetName": "28",
+        "StreetNumber": "Sunshine Beach Road",
+        "Postcode": "4567",
+        "StreetType": null
+    },
+    "LastConversionDate": null,
+    "Users": [
+        {
+            "UserId": "af3d1c88-e929-4272-95ed-25b76b1dd7d6",
+            "UserName": "noosafamilylaw1@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "e2855296-617d-4fae-a3ab-1ead49a35b0a",
+            "UserName": "leap2128364116@leap.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "8c065017-8dd4-4702-80e2-11c83bd6abe3",
+            "UserName": "noosafamilylaw@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "615ffd16-034d-48c7-a431-acabcc4779d9",
+            "UserName": "louiseward@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        },
+        {
+            "UserId": "6e80c492-e4da-416c-aa29-bf3ab83c9d71",
+            "UserName": "denis.noosafamilylaw@westnet.com.au",
+            "UserTypeId": 1,
+            "UserTypeDescription": "Admin"
+        }
+    ]
+}]
